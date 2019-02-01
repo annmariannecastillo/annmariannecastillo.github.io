@@ -1,0 +1,56 @@
+/*diff*/
+h1 {
+    color: #54494B;
+}
+h1 {
+    font-size: 30
+}
+h2 {
+    color: #B33951;
+}
+h2 {
+    font-size: 30;
+}
+h4 {
+    color: #CDACA1;
+}
+h4 {
+    font-size: 20;
+}
+
+body { background-color: #F1F7ED;
+}
+
+ul {
+    list-style: none;
+    font-size: 20
+}
+
+ul {
+    color: #54494B;
+}
+
+/**main content**/
+h3 {
+    font-size: 1em;
+}
+
+/**left**/
+#leftcolumn {
+    background-color: #CDACA1;
+    text-align: center;
+    border-bottom: 5
+}
+
+#rightcolumn {
+    margin-top: 50;
+    padding-left:500
+}
+
+#objective {
+    font-size: 15;
+}
+
+#profpic {
+    border-radius: 80%
+}
