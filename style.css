@@ -1,0 +1,59 @@
+/*diff*/
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #A4BFEB;
+  color: white;
+  font-size: 30px;
+}
+h1 {
+    color: #82204A;
+    font-family: monospace;
+    font-style: normal;
+    font-size: 50
+}
+h2 {
+    color: #2D2A32;
+    font-size: 20;
+    font-family: 'Merriweather';
+}
+h3 {
+    color: #82204A;
+    font-size: 50;
+    font-family: monospace;
+}
+h4 {
+    color: #82204A;
+    font-family: monospace;
+    font-style: normal;
+    font-size: 25;
+}
+body { background-color: #04A777;
+;
+}
+
+ul {
+    list-style: none;
+    font-family: monospace;
+    font-size: 25
+    color: #54494B;
+}
+
+/**left**/
+#leftcolumn {
+    background-color: #BDB4BF A1;
+    text-align: left;
+    border-image: url(259858500c119384fc96cf922e992dee--couple-things-couple-pictures.jpg);
+    border-bottom: 50;
+}
+
+#rightcolumn {
+    margin-top: 50;
+    padding-left: 500;
+}
+
+
+#aesthetic {
+    max-height: 100%;
+    max-height: inherit;
+}
