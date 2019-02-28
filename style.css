@@ -1,56 +1,59 @@
 /*diff*/
-h1 {
-    color: #54494B;
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #A4BFEB;
+  color: white;
+  font-size: 30px;
 }
 h1 {
-    font-size: 30
+    color: #82204A;
+    font-family: monospace;
+    font-style: normal;
+    font-size: 50
 }
 h2 {
-    color: #B33951;
-}
-h2 {
-    font-size: 30;
-}
-h4 {
-    color: #CDACA1;
-}
-h4 {
+    color: #2D2A32;
     font-size: 20;
+    font-family: 'Merriweather';
 }
-
-body { background-color: #F1F7ED;
+h3 {
+    color: #82204A;
+    font-size: 50;
+    font-family: monospace;
+}
+h4 {
+    color: #82204A;
+    font-family: monospace;
+    font-style: normal;
+    font-size: 25;
+}
+body { background-color: #04A777;
+;
 }
 
 ul {
     list-style: none;
-    font-size: 20
-}
-
-ul {
+    font-family: monospace;
+    font-size: 25
     color: #54494B;
-}
-
-/**main content**/
-h3 {
-    font-size: 1em;
 }
 
 /**left**/
 #leftcolumn {
-    background-color: #CDACA1;
-    text-align: center;
-    border-bottom: 5
+    background-color: #BDB4BF A1;
+    text-align: left;
+    border-image: url(259858500c119384fc96cf922e992dee--couple-things-couple-pictures.jpg);
+    border-bottom: 50;
 }
 
 #rightcolumn {
     margin-top: 50;
-    padding-left:500
+    padding-left: 500;
 }
 
-#objective {
-    font-size: 15;
-}
 
-#profpic {
-    border-radius: 80%
+#aesthetic {
+    max-height: 100%;
+    max-height: inherit;
 }

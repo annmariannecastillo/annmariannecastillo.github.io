@@ -13,8 +13,6 @@
 <div class="header">
   <h4> Love Letters for Someone I'm Inlove With </h4>
         <p> By: Ann Marianne Castillo </p>
-              <img class id="aesthetic" src="https://i.pinimg.com/originals/86/49/9b/86499b3be04b4c03c4e41b2c4663e37b.jpg">
-                    
         <hr>
         <hr>
                 <ul>
@@ -25,7 +23,12 @@
                 </ul>
             </div>
             
-            
+<div class="container">
+    <div class="row">
+        <div class="col">
+    <img class id="aesthetic" src="https://i.pinimg.com/originals/86/49/9b/86499b3be04b4c03c4e41b2c4663e37b.jpg">
+                    
+    </div>
     <div class="col" id="rightcolumn">
                 
                <h1> Dear Future Love, </h1>
@@ -47,12 +50,10 @@
     <hr>
         <h3> Always and Forever, Marianne </h3>
     
-                
-                </section>
+                    </section>
+                </div>
             </div>
         </div>
-    </div>
-
-</body>
+    </body>
 
 </html>
